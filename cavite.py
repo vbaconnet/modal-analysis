@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 12 10:44:48 2019
 
-@author: Victor Baconnet - victor.baconnet@etu.univ-lyon1.fr
+@author: Victor Baconnet - victor.baconnet@hotmail.com
 
 All rights reserved 
 
