@@ -22,7 +22,7 @@ def dichotomie(f,g,d):
     Calcule la racine de f dans l'intervalle [g,d]
     Paramètre f doit être une FONCTION. g et d float et g<d
     """
-    assert g < d #pour empêcher que les trou du culs comme toi mettent des mauvaises bornes
+    assert g < d #pour empêcher que les mauvaises bornes
     c = (g+d)*0.5
     while(abs(f(c)) > 0.00000000001):
         if (f(c)*f(g) < 0.):
